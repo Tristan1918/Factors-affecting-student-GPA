@@ -1,10 +1,10 @@
-# Factors affecting student GPA
+# Factors affecting students' GPA
 
 ## What is the project about?
 
 ![image](https://github.com/user-attachments/assets/639b8c0e-4a96-430e-b8c9-2b84ec5c875c)
 
-The report aims to analyze the factors that can affect students' GPA.
+This project aims to examine the factors that can affect students' GPA.
 
 ## Data Source: Where Our Data Comes From
 
