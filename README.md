@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/639b8c0e-4a96-430e-b8c9-2b84ec5c875c)
 
-The report aims to analyze the factors that can affect students' GPA at school.
+The report aims to analyze the factors that can affect students' GPA.
 
 ## Data Source: Where Our Data Comes From
 
@@ -22,6 +22,9 @@ The data set consists of 9 columns and 500 rows, including:
 -	**Major**: Major in which the student is studying.
 -	**PartTimeJob**: the students has a part-time job or not (Yes or No).
 -	**ExtraCurricularActivities**: the students participates in extracurricular activities or not (Yes or No).
+
+## Tools and technologies applied
+In this project, we will use Google Colab and Python 3 programming language.
 
 ## The main goals
 Identify factors influencing student GPA based on characteristics collected in the dataset.
