@@ -8,7 +8,7 @@ This project aims to examine the factors that can affect students' GPA.
 
 ## Data Source: Where Our Data Comes From
 
-Our dataset is compiled from publicly available data from kaggle.com.
+The dataset is compiled from publicly available data from kaggle.com.
 
 ![image](https://github.com/user-attachments/assets/8f985043-aad8-4934-9c96-3243e59a7b01)
 
