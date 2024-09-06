@@ -33,7 +33,7 @@ Identify factors influencing student GPA based on characteristics collected in t
 - Gender has an effect on GPA.
 - Having a part-time job has a effect on GPA, but that effect can be negative or positive depending on the student.
 - Participating in extracurricular activities has positive effects on GPA.
-- Age, Study hours per week and Attendance rate have no effect on GPA.
+- Age, study hours per week and attendance rate have no effect on GPA.
 
 ## Recommendations
 - Teachers pay more attention to male students' concentration during learning process.
