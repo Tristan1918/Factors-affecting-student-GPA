@@ -35,3 +35,11 @@ Identify factors influencing student GPA based on characteristics collected in t
 - Participating in extracurricular activities has positive effects on GPA.
 - Age, Study hours per week and Attendance rate have no effect on GPA.
 
+## Recommendations
+- Teachers pay more attention to male students' concentration during learning process.
+- Encourage students to have suitable part-time jobs that do not affect their academic performance.
+- Encourage students to participate in extracurricular activities.
+
+
+
+
